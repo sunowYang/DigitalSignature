@@ -1,0 +1,6 @@
+﻿如果config目录中没有相应版本的excel文件，执行程序就会生成该版本excel，但result列为空；
+如果有，则执行对比操作，对比结果excel放在result目录，result列可能会有4个结果：
+success（签名名称和时间均正确）、name failed(签名名称错误，时间正确)、time failed(签名名称正确，时间错误)、failed
+
+1、使用前应先安装tools目录中的解包工具inno setup，并将安装路径填写到config.ini文件中
+2、config.ini中excel_titles参数为可选项，如果没有填写，按照默认值处理

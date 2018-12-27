@@ -1,0 +1,48 @@
+2018-12-27 14:09:22,154 [INFO] YGX: Read config.ini
+2018-12-27 14:09:22,174 [INFO] YGX: Download file from nas or other
+2018-12-27 14:09:22,269 [INFO] YGX: Find file:Trial.exe
+2018-12-27 14:09:22,269 [INFO] YGX: Start to copy file:Trial.exe
+2018-12-27 14:09:25,315 [INFO] YGX: Copy file end
+2018-12-27 14:09:25,315 [INFO] YGX: Start to uncompress file
+2018-12-27 14:10:56,559 [INFO] YGX: Uncompress file end
+2018-12-27 14:10:56,561 [INFO] YGX: Start to get package info:c:\setup\package\TodoBackup_11.5_Home_Trial
+2018-12-27 14:45:41,088 [INFO] YGX: Read config.ini
+2018-12-27 14:45:41,088 [INFO] YGX: Download file from nas or other
+2018-12-27 14:45:42,358 [INFO] YGX: Find file:Trial.exe
+2018-12-27 14:45:42,358 [INFO] YGX: Start to copy file:Trial.exe
+2018-12-27 14:45:43,888 [INFO] YGX: Copy file end
+2018-12-27 14:45:43,888 [INFO] YGX: Start to uncompress file
+2018-12-27 14:47:07,684 [INFO] YGX: Uncompress file end
+2018-12-27 14:47:07,686 [INFO] YGX: Start to get package info:c:\setup\package\TodoBackup_11.5_Home_Trial
+2018-12-27 14:53:57,688 [INFO] YGX: Read config.ini
+2018-12-27 14:53:57,690 [INFO] YGX: Download file from nas or other
+2018-12-27 14:53:57,855 [INFO] YGX: Find file:Trial.exe
+2018-12-27 14:53:57,855 [INFO] YGX: Start to copy file:Trial.exe
+2018-12-27 14:53:59,381 [INFO] YGX: Copy file end
+2018-12-27 14:53:59,381 [INFO] YGX: Start to uncompress file
+2018-12-27 14:55:13,855 [INFO] YGX: Uncompress file end
+2018-12-27 14:55:13,855 [INFO] YGX: Start to get package info:c:\setup\package\TodoBackup_11.5_Home_Trial
+2018-12-27 14:57:08,292 [INFO] YGX: Read config.ini
+2018-12-27 14:57:08,292 [INFO] YGX: Download file from nas or other
+2018-12-27 14:57:08,398 [INFO] YGX: Find file:Trial.exe
+2018-12-27 14:57:08,398 [INFO] YGX: Start to copy file:Trial.exe
+2018-12-27 14:57:09,717 [INFO] YGX: Copy file end
+2018-12-27 14:57:09,733 [INFO] YGX: Start to uncompress file
+2018-12-27 14:58:28,943 [INFO] YGX: Uncompress file end
+2018-12-27 14:58:28,943 [INFO] YGX: Start to get package info:c:\setup\package\TodoBackup_11.5_Home_Trial
+2018-12-27 15:16:33,242 [INFO] YGX: Read config.ini
+2018-12-27 15:16:33,259 [INFO] YGX: Download file from nas or other
+2018-12-27 15:16:33,358 [INFO] YGX: Find file:Trial.exe
+2018-12-27 15:16:33,358 [INFO] YGX: Start to copy file:Trial.exe
+2018-12-27 15:16:34,523 [INFO] YGX: Copy file end
+2018-12-27 15:16:34,523 [INFO] YGX: Start to uncompress file
+2018-12-27 15:18:16,721 [INFO] YGX: Uncompress file end
+2018-12-27 15:18:16,721 [INFO] YGX: Start to get package info:c:\setup\package\TodoBackup_11.5_Home_Trial
+2018-12-27 15:22:33,533 [INFO] YGX: Read config.ini
+2018-12-27 15:22:33,533 [INFO] YGX: Download file from nas or other
+2018-12-27 15:22:33,701 [INFO] YGX: Find file:Trial.exe
+2018-12-27 15:22:33,701 [INFO] YGX: Start to copy file:Trial.exe
+2018-12-27 15:22:35,397 [INFO] YGX: Copy file end
+2018-12-27 15:22:35,397 [INFO] YGX: Start to uncompress file
+2018-12-27 15:23:48,428 [INFO] YGX: Uncompress file end
+2018-12-27 15:23:48,428 [INFO] YGX: Start to get package info:c:\setup\package\TodoBackup_11.5_Home_Trial
