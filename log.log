@@ -1,48 +1,410 @@
-2018-12-27 14:09:22,154 [INFO] YGX: Read config.ini
-2018-12-27 14:09:22,174 [INFO] YGX: Download file from nas or other
-2018-12-27 14:09:22,269 [INFO] YGX: Find file:Trial.exe
-2018-12-27 14:09:22,269 [INFO] YGX: Start to copy file:Trial.exe
-2018-12-27 14:09:25,315 [INFO] YGX: Copy file end
-2018-12-27 14:09:25,315 [INFO] YGX: Start to uncompress file
-2018-12-27 14:10:56,559 [INFO] YGX: Uncompress file end
-2018-12-27 14:10:56,561 [INFO] YGX: Start to get package info:c:\setup\package\TodoBackup_11.5_Home_Trial
-2018-12-27 14:45:41,088 [INFO] YGX: Read config.ini
-2018-12-27 14:45:41,088 [INFO] YGX: Download file from nas or other
-2018-12-27 14:45:42,358 [INFO] YGX: Find file:Trial.exe
-2018-12-27 14:45:42,358 [INFO] YGX: Start to copy file:Trial.exe
-2018-12-27 14:45:43,888 [INFO] YGX: Copy file end
-2018-12-27 14:45:43,888 [INFO] YGX: Start to uncompress file
-2018-12-27 14:47:07,684 [INFO] YGX: Uncompress file end
-2018-12-27 14:47:07,686 [INFO] YGX: Start to get package info:c:\setup\package\TodoBackup_11.5_Home_Trial
-2018-12-27 14:53:57,688 [INFO] YGX: Read config.ini
-2018-12-27 14:53:57,690 [INFO] YGX: Download file from nas or other
-2018-12-27 14:53:57,855 [INFO] YGX: Find file:Trial.exe
-2018-12-27 14:53:57,855 [INFO] YGX: Start to copy file:Trial.exe
-2018-12-27 14:53:59,381 [INFO] YGX: Copy file end
-2018-12-27 14:53:59,381 [INFO] YGX: Start to uncompress file
-2018-12-27 14:55:13,855 [INFO] YGX: Uncompress file end
-2018-12-27 14:55:13,855 [INFO] YGX: Start to get package info:c:\setup\package\TodoBackup_11.5_Home_Trial
-2018-12-27 14:57:08,292 [INFO] YGX: Read config.ini
-2018-12-27 14:57:08,292 [INFO] YGX: Download file from nas or other
-2018-12-27 14:57:08,398 [INFO] YGX: Find file:Trial.exe
-2018-12-27 14:57:08,398 [INFO] YGX: Start to copy file:Trial.exe
-2018-12-27 14:57:09,717 [INFO] YGX: Copy file end
-2018-12-27 14:57:09,733 [INFO] YGX: Start to uncompress file
-2018-12-27 14:58:28,943 [INFO] YGX: Uncompress file end
-2018-12-27 14:58:28,943 [INFO] YGX: Start to get package info:c:\setup\package\TodoBackup_11.5_Home_Trial
-2018-12-27 15:16:33,242 [INFO] YGX: Read config.ini
-2018-12-27 15:16:33,259 [INFO] YGX: Download file from nas or other
-2018-12-27 15:16:33,358 [INFO] YGX: Find file:Trial.exe
-2018-12-27 15:16:33,358 [INFO] YGX: Start to copy file:Trial.exe
-2018-12-27 15:16:34,523 [INFO] YGX: Copy file end
-2018-12-27 15:16:34,523 [INFO] YGX: Start to uncompress file
-2018-12-27 15:18:16,721 [INFO] YGX: Uncompress file end
-2018-12-27 15:18:16,721 [INFO] YGX: Start to get package info:c:\setup\package\TodoBackup_11.5_Home_Trial
-2018-12-27 15:22:33,533 [INFO] YGX: Read config.ini
-2018-12-27 15:22:33,533 [INFO] YGX: Download file from nas or other
-2018-12-27 15:22:33,701 [INFO] YGX: Find file:Trial.exe
-2018-12-27 15:22:33,701 [INFO] YGX: Start to copy file:Trial.exe
-2018-12-27 15:22:35,397 [INFO] YGX: Copy file end
-2018-12-27 15:22:35,397 [INFO] YGX: Start to uncompress file
-2018-12-27 15:23:48,428 [INFO] YGX: Uncompress file end
-2018-12-27 15:23:48,428 [INFO] YGX: Start to get package info:c:\setup\package\TodoBackup_11.5_Home_Trial
+2019-01-04 15:37:59,289 [INFO] YGX: Read config.ini
+2019-01-04 15:37:59,305 [INFO] YGX: Download file from nas or other
+2019-01-04 15:37:59,336 [INFO] YGX: Find file:Trial.exe
+2019-01-04 15:37:59,351 [INFO] YGX: Start to copy file:Trial.exe
+2019-01-04 15:38:04,069 [INFO] YGX: Copy file end
+2019-01-04 15:38:04,069 [INFO] YGX: Start to uncompress file
+2019-01-04 16:06:51,279 [INFO] YGX: Read config.ini
+2019-01-04 16:06:51,282 [INFO] YGX: Download file from nas or other
+2019-01-04 16:06:51,394 [INFO] YGX: Find file:Trial.exe
+2019-01-04 16:06:51,394 [INFO] YGX: Start to copy file:Trial.exe
+2019-01-04 16:06:54,361 [INFO] YGX: Copy file end
+2019-01-04 16:06:54,361 [INFO] YGX: Start to uncompress file
+2019-01-16 15:00:16,043 [INFO] YGX: Read config.ini
+2019-01-16 15:00:22,444 [INFO] YGX: ========================END============================
+2019-01-16 15:00:42,661 [INFO] YGX: Read config.ini
+2019-01-16 15:01:06,213 [INFO] YGX: ========================END============================
+2019-01-16 15:03:01,555 [INFO] YGX: Read config.ini
+2019-01-16 15:03:19,845 [INFO] YGX: ========================END============================
+2019-01-16 16:06:27,196 [INFO] YGX: Read config.ini
+2019-01-16 16:07:06,219 [INFO] YGX: ========================END============================
+2019-01-16 16:35:37,628 [INFO] YGX: Read config.ini
+2019-01-16 16:36:57,816 [INFO] YGX: ========================END============================
+2019-01-16 16:42:43,746 [INFO] YGX: Read config.ini
+2019-01-16 16:42:57,983 [INFO] YGX: ========================END============================
+2019-01-16 16:43:19,578 [INFO] YGX: Read config.ini
+2019-01-16 16:43:19,723 [ERROR] YGX: arguments did not match any overloaded call:
+  QWidget.setMask(QBitmap): argument 1 has unexpected type 'str'
+  QWidget.setMask(QRegion): argument 1 has unexpected type 'str'
+2019-01-16 16:43:19,723 [INFO] YGX: ========================END============================
+2019-01-16 16:46:25,720 [INFO] YGX: Read config.ini
+2019-01-16 16:47:00,492 [INFO] YGX: ========================END============================
+2019-01-16 16:47:20,673 [INFO] YGX: Read config.ini
+2019-01-16 16:47:25,434 [INFO] YGX: ========================END============================
+2019-01-16 16:47:39,006 [INFO] YGX: Read config.ini
+2019-01-16 16:48:04,236 [INFO] YGX: ========================END============================
+2019-01-16 16:48:12,736 [INFO] YGX: Read config.ini
+2019-01-16 16:48:17,108 [INFO] YGX: ========================END============================
+2019-01-16 16:48:30,411 [INFO] YGX: Read config.ini
+2019-01-16 16:48:53,134 [INFO] YGX: ========================END============================
+2019-01-16 17:31:08,069 [INFO] YGX: Read config.ini
+2019-01-16 17:31:23,598 [INFO] YGX: ========================END============================
+2019-01-16 17:49:48,058 [INFO] YGX: Read config.ini
+2019-01-16 17:49:55,755 [INFO] YGX: ========================END============================
+2019-01-16 17:55:56,494 [INFO] YGX: Read config.ini
+2019-01-16 17:56:03,841 [ERROR] YGX: need more than 0 values to unpack
+2019-01-16 17:56:03,842 [INFO] YGX: ========================END============================
+2019-01-16 17:56:30,765 [INFO] YGX: Read config.ini
+2019-01-16 17:56:34,624 [ERROR] YGX: need more than 0 values to unpack
+2019-01-16 17:56:34,624 [INFO] YGX: ========================END============================
+2019-01-16 17:56:52,644 [INFO] YGX: Read config.ini
+2019-01-16 17:56:58,805 [ERROR] YGX: need more than 0 values to unpack
+2019-01-16 17:56:58,805 [INFO] YGX: ========================END============================
+2019-01-16 17:57:58,509 [INFO] YGX: Read config.ini
+2019-01-16 17:59:30,654 [INFO] YGX: Read config.ini
+2019-01-16 18:00:06,637 [INFO] YGX: ========================END============================
+2019-01-17 09:21:19,569 [INFO] YGX: Read config.ini
+2019-01-17 09:22:14,678 [INFO] YGX: ========================END============================
+2019-01-17 09:23:19,631 [INFO] YGX: Read config.ini
+2019-01-17 09:26:52,908 [INFO] YGX: Read config.ini
+2019-01-17 09:30:33,354 [INFO] YGX: ========================END============================
+2019-01-17 09:30:37,717 [INFO] YGX: Read config.ini
+2019-01-17 09:31:04,078 [INFO] YGX: Download file from nas or other
+2019-01-17 09:31:25,010 [INFO] YGX: Copy file end
+2019-01-17 09:31:25,012 [INFO] YGX: Start to uncompress file
+2019-01-17 09:35:45,605 [INFO] YGX: Uncompress file end
+2019-01-17 09:35:45,605 [INFO] YGX: Start to get package info
+2019-01-17 10:12:07,726 [INFO] YGX: Read config.ini
+2019-01-17 10:12:08,414 [ERROR] YGX: arguments did not match any overloaded call:
+  QProgressDialog(QWidget parent=None, Qt.WindowFlags flags=0): argument 1 has unexpected type 'str'
+  QProgressDialog(str, str, int, int, QWidget parent=None, Qt.WindowFlags flags=0): not enough arguments
+2019-01-17 10:12:08,415 [INFO] YGX: ========================END============================
+2019-01-17 10:14:18,184 [INFO] YGX: Read config.ini
+2019-01-17 10:14:24,075 [INFO] YGX: ========================END============================
+2019-01-17 10:17:30,296 [INFO] YGX: Read config.ini
+2019-01-17 10:18:41,632 [INFO] YGX: ========================END============================
+2019-01-17 10:18:44,594 [INFO] YGX: Read config.ini
+2019-01-17 10:31:03,055 [INFO] YGX: ========================END============================
+2019-01-17 10:31:10,680 [INFO] YGX: Read config.ini
+2019-01-17 10:31:49,644 [INFO] YGX: ========================END============================
+2019-01-17 10:31:51,553 [INFO] YGX: Read config.ini
+2019-01-17 10:32:00,832 [INFO] YGX: ========================END============================
+2019-01-17 10:33:22,085 [INFO] YGX: Read config.ini
+2019-01-17 10:33:27,108 [INFO] YGX: ========================END============================
+2019-01-17 10:35:20,832 [INFO] YGX: Read config.ini
+2019-01-17 10:35:23,724 [INFO] YGX: ========================END============================
+2019-01-17 10:36:39,766 [INFO] YGX: Read config.ini
+2019-01-17 10:36:47,789 [INFO] YGX: ========================END============================
+2019-01-17 10:37:42,628 [INFO] YGX: Read config.ini
+2019-01-17 10:38:53,696 [INFO] YGX: ========================END============================
+2019-01-17 10:39:07,200 [INFO] YGX: Read config.ini
+2019-01-17 10:39:09,598 [INFO] YGX: Download file from nas or other
+2019-01-17 10:39:11,155 [INFO] YGX: Copy file end
+2019-01-17 10:39:11,155 [INFO] YGX: Start to uncompress file
+2019-01-17 10:40:58,045 [INFO] YGX: Uncompress file end
+2019-01-17 10:40:58,063 [INFO] YGX: Start to get package info
+2019-01-17 10:48:03,256 [INFO] YGX: end
+2019-01-17 11:01:57,910 [INFO] YGX: Read config.ini
+2019-01-17 11:02:03,441 [INFO] YGX: Download file from nas or other
+2019-01-17 11:02:05,391 [INFO] YGX: Copy file end
+2019-01-17 11:02:05,391 [INFO] YGX: Start to uncompress file
+2019-01-17 11:05:52,411 [INFO] YGX: Read config.ini
+2019-01-17 11:05:54,348 [INFO] YGX: Download file from nas or other
+2019-01-17 11:05:54,802 [INFO] YGX: Copy file end
+2019-01-17 11:05:54,802 [INFO] YGX: Start to uncompress file
+2019-01-17 11:08:19,055 [INFO] YGX: Read config.ini
+2019-01-17 11:08:20,461 [INFO] YGX: Download file from nas or other
+2019-01-17 11:08:20,961 [INFO] YGX: Copy file end
+2019-01-17 11:08:20,961 [INFO] YGX: Start to uncompress file
+2019-01-17 11:08:46,874 [INFO] YGX: Read config.ini
+2019-01-17 11:35:27,273 [INFO] YGX: Read config.ini
+2019-01-17 11:35:29,726 [INFO] YGX: Download file from nas or other
+2019-01-17 11:35:32,726 [INFO] YGX: Copy file end
+2019-01-17 11:35:32,726 [INFO] YGX: Start to uncompress file
+2019-01-17 11:36:03,148 [INFO] YGX: Read config.ini
+2019-01-17 11:36:04,947 [INFO] YGX: Download file from nas or other
+2019-01-17 11:36:07,992 [INFO] YGX: Copy file end
+2019-01-17 11:36:07,992 [INFO] YGX: Start to uncompress file
+2019-01-17 11:36:49,118 [INFO] YGX: Read config.ini
+2019-01-17 11:36:51,525 [INFO] YGX: Download file from nas or other
+2019-01-17 11:36:54,102 [INFO] YGX: Copy file end
+2019-01-17 11:36:54,102 [INFO] YGX: Start to uncompress file
+2019-01-17 12:45:43,385 [INFO] YGX: Read config.ini
+2019-01-17 12:50:03,055 [INFO] YGX: Read config.ini
+2019-01-17 12:50:07,101 [INFO] YGX: ========================END============================
+2019-01-17 12:50:21,253 [INFO] YGX: Read config.ini
+2019-01-17 12:53:35,930 [INFO] YGX: ========================END============================
+2019-01-17 12:53:38,539 [INFO] YGX: Read config.ini
+2019-01-17 12:53:40,164 [INFO] YGX: Start to get package info
+2019-01-17 12:53:40,164 [INFO] YGX: Download file from nas or other
+2019-01-17 12:53:44,792 [INFO] YGX: Copy file end
+2019-01-17 12:53:44,792 [INFO] YGX: Start to uncompress file
+2019-01-17 12:55:51,775 [INFO] YGX: Uncompress file end
+2019-01-17 13:03:17,726 [INFO] YGX: end
+2019-01-17 13:08:40,207 [INFO] YGX: Read config.ini
+2019-01-17 13:10:03,505 [INFO] YGX: ========================END============================
+2019-01-17 13:20:39,865 [INFO] YGX: Read config.ini
+2019-01-17 13:24:05,260 [INFO] YGX: ========================END============================
+2019-01-17 13:24:08,042 [INFO] YGX: Read config.ini
+2019-01-17 13:24:45,430 [INFO] YGX: Start to get package info
+2019-01-17 13:27:56,194 [INFO] YGX: end
+2019-01-17 13:41:00,589 [INFO] YGX: Read config.ini
+2019-01-17 13:41:03,808 [INFO] YGX: Start to get package info
+2019-01-17 13:41:23,012 [INFO] YGX: Read config.ini
+2019-01-17 13:41:25,105 [INFO] YGX: Start to get package info
+2019-01-17 13:41:33,921 [INFO] YGX: ========================END============================
+2019-01-17 13:41:55,408 [INFO] YGX: Read config.ini
+2019-01-17 13:41:57,986 [INFO] YGX: Start to get package info
+2019-01-17 13:45:19,063 [INFO] YGX: end
+2019-01-17 13:47:19,289 [INFO] YGX: Read config.ini
+2019-01-17 13:47:20,930 [INFO] YGX: Start to get package info
+2019-01-17 13:47:23,164 [INFO] YGX: end
+2019-01-17 13:47:49,822 [INFO] YGX: Start to get package info
+2019-01-17 13:47:52,181 [INFO] YGX: end
+2019-01-17 13:48:01,631 [INFO] YGX: ========================END============================
+2019-01-17 13:48:28,016 [INFO] YGX: Read config.ini
+2019-01-17 13:48:30,000 [INFO] YGX: Start to get package info
+2019-01-17 13:48:32,424 [INFO] YGX: end
+2019-01-17 13:48:57,236 [INFO] YGX: ========================END============================
+2019-01-17 13:48:59,454 [INFO] YGX: Read config.ini
+2019-01-17 13:49:01,641 [INFO] YGX: Start to get package info
+2019-01-17 13:49:04,224 [INFO] YGX: end
+2019-01-17 13:49:07,427 [INFO] YGX: ========================END============================
+2019-01-17 13:49:38,476 [INFO] YGX: Read config.ini
+2019-01-17 13:49:43,144 [INFO] YGX: ========================END============================
+2019-01-17 13:49:49,378 [INFO] YGX: Read config.ini
+2019-01-17 13:49:51,253 [INFO] YGX: Start to get package info
+2019-01-17 13:49:54,331 [INFO] YGX: end
+2019-01-17 13:50:26,181 [INFO] YGX: ========================END============================
+2019-01-17 13:52:32,335 [INFO] YGX: Read config.ini
+2019-01-17 13:52:38,085 [INFO] YGX: Start to get package info
+2019-01-17 13:53:43,476 [INFO] YGX: ========================END============================
+2019-01-17 13:53:50,262 [INFO] YGX: Read config.ini
+2019-01-17 13:53:54,230 [INFO] YGX: Start to get package info
+2019-01-17 13:55:53,930 [INFO] YGX: ========================END============================
+2019-01-17 13:56:57,316 [INFO] YGX: Read config.ini
+2019-01-17 13:57:12,005 [INFO] YGX: Start to get package info
+2019-01-17 13:57:13,739 [INFO] YGX: end
+2019-01-17 13:57:32,378 [INFO] YGX: Start to get package info
+2019-01-17 14:01:36,082 [INFO] YGX: Read config.ini
+2019-01-17 14:01:38,039 [INFO] YGX: Start to get package info
+2019-01-17 14:02:38,009 [INFO] YGX: Start to get package info
+2019-01-17 14:02:40,759 [INFO] YGX: end
+2019-01-17 14:07:11,177 [INFO] YGX: Read config.ini
+2019-01-17 14:07:13,073 [INFO] YGX: Start to get package info
+2019-01-17 14:07:15,796 [INFO] YGX: end
+2019-01-17 14:07:21,061 [INFO] YGX: Start to get package info
+2019-01-17 14:14:44,153 [INFO] YGX: Read config.ini
+2019-01-17 14:14:47,993 [INFO] YGX: Start to get package info
+2019-01-17 14:15:19,480 [INFO] YGX: Read config.ini
+2019-01-17 14:15:21,048 [INFO] YGX: Start to get package info
+2019-01-17 14:15:26,420 [INFO] YGX: Start to get package info
+2019-01-17 14:15:43,400 [INFO] YGX: Start to get package info
+2019-01-17 14:15:45,585 [INFO] YGX: end
+2019-01-17 14:17:07,447 [INFO] YGX: Start to get package info
+2019-01-17 14:17:08,250 [INFO] YGX: end
+2019-01-17 14:21:25,684 [INFO] YGX: ========================END============================
+2019-01-17 14:26:43,904 [INFO] YGX: Read config.ini
+2019-01-17 14:27:24,345 [INFO] YGX: ========================END============================
+2019-01-17 14:45:59,690 [INFO] YGX: Read config.ini
+2019-01-17 14:51:46,930 [INFO] YGX: ========================END============================
+2019-01-17 16:04:09,361 [INFO] YGX: Read config.ini
+2019-01-17 16:29:14,957 [INFO] YGX: Read config.ini
+2019-01-17 16:29:23,891 [INFO] YGX: ========================END============================
+2019-01-18 09:38:03,207 [INFO] YGX: Read config.ini
+2019-01-18 09:38:43,832 [INFO] YGX: ========================END============================
+2019-01-18 10:22:22,177 [INFO] YGX: Read config.ini
+2019-01-18 10:22:38,052 [INFO] YGX: ========================END============================
+2019-01-18 17:34:30,727 [INFO] YGX: Read config.ini
+2019-01-18 17:34:51,829 [INFO] YGX: ========================END============================
+2019-01-18 17:35:39,276 [INFO] YGX: Read config.ini
+2019-01-18 17:35:56,683 [INFO] YGX: Start to get package info
+2019-01-18 17:35:56,697 [INFO] YGX: Download file from nas or other
+2019-01-18 17:35:59,188 [INFO] YGX: Copy file end
+2019-01-18 17:35:59,188 [INFO] YGX: Start to uncompress file
+2019-04-24 11:16:50,375 [INFO] YGX: Read config.ini
+2019-04-24 11:18:16,696 [INFO] YGX: Start to get package info
+2019-04-24 11:18:16,711 [INFO] YGX: Download file from nas or other
+2019-04-24 11:18:42,183 [INFO] YGX: Copy file end
+2019-04-24 11:18:42,183 [INFO] YGX: Start to uncompress file
+2019-04-24 11:23:29,877 [INFO] YGX: Uncompress file end
+2019-04-24 11:46:34,423 [INFO] YGX: end
+2019-04-24 13:01:47,367 [INFO] YGX: Start to get package info
+2019-04-24 13:20:07,286 [INFO] YGX: end
+2019-04-24 13:46:02,874 [INFO] YGX: ========================END============================
+2019-04-24 14:03:56,683 [INFO] YGX: Read config.ini
+2019-04-24 14:04:23,335 [INFO] YGX: Start to get package info
+2019-04-24 14:05:16,368 [INFO] YGX: ========================END============================
+2019-04-24 14:06:14,167 [INFO] YGX: Read config.ini
+2019-04-24 14:06:18,510 [INFO] YGX: Start to get package info
+2019-04-24 14:23:36,586 [INFO] YGX: end
+2019-04-24 15:14:14,523 [INFO] YGX: Read config.ini
+2019-04-24 15:15:46,950 [INFO] YGX: Start to get package info
+2019-04-24 15:27:54,085 [INFO] YGX: ========================END============================
+2019-04-24 15:35:10,249 [INFO] YGX: Read config.ini
+2019-04-24 15:35:35,408 [INFO] YGX: Start to get package info
+2019-04-24 15:46:23,505 [INFO] YGX: end
+2019-04-24 16:18:38,101 [INFO] YGX: Read config.ini
+2019-04-24 16:18:52,549 [INFO] YGX: Start to get package info
+2019-04-24 16:19:06,934 [INFO] YGX: ========================END============================
+2019-04-24 16:19:26,506 [INFO] YGX: Read config.ini
+2019-04-24 16:19:29,240 [INFO] YGX: Start to get package info
+2019-04-24 16:22:03,663 [INFO] YGX: end
+2019-04-24 16:32:04,355 [INFO] YGX: Read config.ini
+2019-04-24 16:33:02,348 [INFO] YGX: Start to get package info
+2019-04-24 16:40:43,865 [INFO] YGX: end
+2019-04-24 16:41:26,936 [INFO] YGX: Read config.ini
+2019-04-24 16:43:37,262 [INFO] YGX: Start to get package info
+2019-04-24 16:49:12,319 [INFO] YGX: end
+2019-04-24 16:52:20,257 [INFO] YGX: Read config.ini
+2019-04-24 16:52:25,805 [INFO] YGX: Start to get package info
+2019-04-24 16:54:04,355 [INFO] YGX: Read config.ini
+2019-04-24 16:54:20,069 [INFO] YGX: Start to get package info
+2019-04-24 17:02:38,951 [INFO] YGX: end
+2019-04-24 17:34:24,937 [INFO] YGX: Read config.ini
+2019-04-24 17:34:48,756 [INFO] YGX: Start to get package info
+2019-04-24 17:36:21,042 [INFO] YGX: ========================END============================
+2019-04-24 17:36:37,609 [INFO] YGX: Read config.ini
+2019-04-24 17:36:40,818 [INFO] YGX: Start to get package info
+2019-04-24 17:36:54,138 [INFO] YGX: Start to get package info
+2019-04-24 17:43:51,970 [INFO] YGX: end
+2019-04-24 18:00:50,538 [INFO] YGX: Read config.ini
+2019-04-24 18:01:21,457 [INFO] YGX: Start to get package info
+2019-04-24 18:05:58,595 [INFO] YGX: end
+2019-04-24 18:07:12,164 [INFO] YGX: Start to get package info
+2019-04-24 18:12:12,700 [INFO] YGX: end
+2019-04-28 10:10:53,717 [INFO] YGX: Read config.ini
+2019-04-28 10:10:53,875 [ERROR] YGX: 'MainWindow' object has no attribute 'compare_edit'
+2019-04-28 10:10:53,875 [INFO] YGX: ========================END============================
+2019-04-28 10:11:22,875 [INFO] YGX: Read config.ini
+2019-04-28 10:11:22,983 [ERROR] YGX: 'MainWindow' object has no attribute 'compare_edit'
+2019-04-28 10:11:22,983 [INFO] YGX: ========================END============================
+2019-04-28 10:12:15,483 [INFO] YGX: Read config.ini
+2019-04-28 10:12:15,717 [ERROR] YGX: QBoxLayout.addWidget(QWidget, int stretch=0, Qt.Alignment alignment=0): argument 1 has unexpected type 'str'
+2019-04-28 10:12:15,717 [INFO] YGX: ========================END============================
+2019-04-28 10:12:46,563 [INFO] YGX: Read config.ini
+2019-04-28 10:12:56,407 [INFO] YGX: ========================END============================
+2019-04-28 10:13:16,891 [INFO] YGX: Read config.ini
+2019-04-28 10:13:46,236 [INFO] YGX: ========================END============================
+2019-04-28 10:14:16,720 [INFO] YGX: Read config.ini
+2019-04-28 10:14:28,236 [INFO] YGX: ========================END============================
+2019-04-28 10:14:33,454 [INFO] YGX: Read config.ini
+2019-04-28 10:14:45,625 [INFO] YGX: ========================END============================
+2019-04-28 10:15:01,907 [INFO] YGX: Read config.ini
+2019-04-28 10:15:05,407 [INFO] YGX: ========================END============================
+2019-04-28 10:15:18,125 [INFO] YGX: Read config.ini
+2019-04-28 10:15:23,250 [INFO] YGX: ========================END============================
+2019-04-28 10:15:50,970 [INFO] YGX: Read config.ini
+2019-04-28 10:15:58,266 [INFO] YGX: ========================END============================
+2019-04-28 10:16:10,563 [INFO] YGX: Read config.ini
+2019-04-28 10:16:24,720 [INFO] YGX: ========================END============================
+2019-04-28 10:16:33,625 [INFO] YGX: Read config.ini
+2019-04-28 10:16:47,500 [INFO] YGX: ========================END============================
+2019-04-28 10:23:58,763 [INFO] YGX: Read config.ini
+2019-04-28 10:23:58,793 [ERROR] YGX: 'QPushButton' object has no attribute 'clicke'
+2019-04-28 10:23:58,793 [INFO] YGX: ========================END============================
+2019-04-28 10:24:08,168 [INFO] YGX: Read config.ini
+2019-04-28 10:24:08,200 [ERROR] YGX: 'QPushButton' object has no attribute 'clicke'
+2019-04-28 10:24:08,200 [INFO] YGX: ========================END============================
+2019-04-28 10:24:18,232 [INFO] YGX: Read config.ini
+2019-04-28 10:24:35,888 [INFO] YGX: ========================END============================
+2019-04-28 10:25:35,045 [INFO] YGX: Read config.ini
+2019-04-28 10:30:54,446 [INFO] YGX: ========================END============================
+2019-04-28 15:59:07,177 [INFO] YGX: Read config.ini
+2019-04-28 15:59:07,193 [ERROR] YGX: pyqtSignal must be bound to a QObject, not 'instance'
+2019-04-28 15:59:07,207 [INFO] YGX: ========================END============================
+2019-04-28 15:59:42,845 [INFO] YGX: Read config.ini
+2019-04-28 15:59:48,855 [INFO] YGX: ========================END============================
+2019-04-28 16:03:23,076 [INFO] YGX: Read config.ini
+2019-04-28 16:03:23,108 [ERROR] YGX: pyqtSignal must be bound to a QObject, not 'instance'
+2019-04-28 16:03:23,108 [INFO] YGX: ========================END============================
+2019-04-28 16:03:59,161 [INFO] YGX: Read config.ini
+2019-04-28 16:05:06,766 [INFO] YGX: Read config.ini
+2019-04-28 16:20:29,417 [INFO] YGX: Read config.ini
+2019-04-28 16:23:28,190 [INFO] YGX: Read config.ini
+2019-04-28 16:23:33,398 [INFO] YGX: ========================END============================
+2019-04-28 16:24:12,775 [INFO] YGX: Read config.ini
+2019-04-28 16:25:00,209 [INFO] YGX: ========================END============================
+2019-04-28 16:25:02,549 [INFO] YGX: Read config.ini
+2019-04-28 16:25:12,019 [INFO] YGX: ========================END============================
+2019-04-28 16:26:01,157 [INFO] YGX: Read config.ini
+2019-04-28 16:26:07,954 [INFO] YGX: ========================END============================
+2019-04-28 16:26:41,512 [INFO] YGX: Read config.ini
+2019-04-28 16:26:56,092 [INFO] YGX: 初始化中...
+2019-04-28 16:27:06,549 [INFO] YGX: ========================END============================
+2019-04-28 16:27:28,443 [INFO] YGX: Read config.ini
+2019-04-28 16:27:32,207 [INFO] YGX: ========================END============================
+2019-04-28 16:29:17,954 [INFO] YGX: Read config.ini
+2019-04-28 16:29:29,561 [INFO] YGX: 初始化中...
+2019-04-28 16:29:53,720 [INFO] YGX: ========================END============================
+2019-04-28 16:29:56,459 [INFO] YGX: Read config.ini
+2019-04-28 16:29:56,538 [ERROR] YGX: pyqtSignal must be bound to a QObject, not 'instance'
+2019-04-28 16:29:56,538 [INFO] YGX: ========================END============================
+2019-04-28 16:38:49,026 [INFO] YGX: Read config.ini
+2019-04-28 16:38:52,401 [INFO] YGX: 初始化中...
+2019-04-28 16:38:52,401 [INFO] YGX: 开始下载安装包
+2019-04-28 16:38:53,572 [INFO] YGX: 下载完成，开始解压安装包
+2019-04-28 16:40:26,878 [INFO] YGX: 解压完成，开始下载要对比的安装包
+2019-04-28 16:40:39,993 [INFO] YGX: 下载完成，开始解压要对比的安装包
+2019-04-28 16:42:13,398 [INFO] YGX: 解压完成
+2019-04-28 16:42:13,398 [INFO] YGX: 开始对比两个版本的文件签名信息
+2019-04-28 16:45:54,375 [INFO] YGX: ========================END============================
+2019-04-28 16:45:57,094 [INFO] YGX: Read config.ini
+2019-04-28 16:45:58,859 [INFO] YGX: 初始化中...
+2019-04-28 16:45:58,907 [INFO] YGX: 开始下载安装包
+2019-04-28 16:45:59,457 [INFO] YGX: 下载完成，开始解压安装包
+2019-04-28 16:44:35,641 [INFO] YGX: 解压完成，开始下载要对比的安装包
+2019-04-28 16:44:59,191 [INFO] YGX: 下载完成，开始解压要对比的安装包
+2019-04-28 16:46:31,303 [INFO] YGX: 解压完成
+2019-04-28 16:46:31,306 [INFO] YGX: 开始对比两个版本的文件签名信息
+2019-04-28 16:52:08,607 [INFO] YGX: 任务完成
+2019-04-28 16:54:50,829 [INFO] YGX: ========================END============================
+2019-04-28 17:03:51,385 [INFO] YGX: Read config.ini
+2019-04-28 17:03:58,210 [INFO] YGX: 初始化中...
+2019-04-28 17:03:58,226 [INFO] YGX: 开始下载安装包
+2019-04-28 17:04:02,017 [INFO] YGX: 下载完成，开始解压安装包
+2019-04-28 17:05:43,132 [INFO] YGX: Read config.ini
+2019-04-28 17:05:45,055 [INFO] YGX: 初始化中...
+2019-04-28 17:05:52,767 [INFO] YGX: ========================END============================
+2019-04-28 17:05:54,615 [INFO] YGX: Read config.ini
+2019-04-28 17:05:56,086 [INFO] YGX: 初始化中...
+2019-04-28 17:06:50,750 [INFO] YGX: ========================END============================
+2019-04-28 17:07:50,595 [INFO] YGX: Read config.ini
+2019-04-28 17:07:51,729 [INFO] YGX: 初始化中...
+2019-04-28 17:07:51,737 [INFO] YGX: 开始下载安装包
+2019-04-28 17:07:52,045 [INFO] YGX: 下载完成，开始解压安装包
+2019-04-28 17:49:47,773 [INFO] YGX: ========================END============================
+2019-04-28 17:49:55,844 [INFO] YGX: Read config.ini
+2019-04-28 17:49:58,197 [INFO] YGX: 初始化中...
+2019-04-28 17:49:58,220 [INFO] YGX: 开始下载安装包
+2019-04-28 17:49:58,743 [INFO] YGX: 下载完成，开始解压安装包
+2019-04-28 17:54:45,494 [INFO] YGX: 任务完成
+2019-04-28 17:57:57,464 [INFO] YGX: Read config.ini
+2019-04-28 17:57:59,321 [INFO] YGX: 初始化中...
+2019-04-28 17:57:59,329 [INFO] YGX: 开始下载安装包
+2019-04-28 17:57:59,832 [INFO] YGX: 下载完成，开始解压安装包
+2019-04-28 18:02:34,338 [INFO] YGX: Read config.ini
+2019-04-28 18:02:50,226 [INFO] YGX: 初始化中...
+2019-04-28 18:02:50,239 [INFO] YGX: 开始下载安装包
+2019-04-28 18:02:50,526 [INFO] YGX: 下载完成，开始解压安装包
+2019-04-28 18:03:41,523 [INFO] YGX: 解压完成，开始下载要对比的安装包
+2019-04-28 18:04:19,480 [INFO] YGX: 下载完成，开始解压要对比的安装包
+2019-04-28 18:05:25,651 [INFO] YGX: 解压完成
+2019-04-28 18:05:25,653 [INFO] YGX: 开始对比两个版本的文件签名信息
+2019-04-28 18:07:36,493 [INFO] YGX: ========================END============================
+2019-04-28 18:07:55,638 [INFO] YGX: Read config.ini
+2019-04-28 18:07:57,361 [INFO] YGX: 初始化中...
+2019-04-28 18:07:57,375 [INFO] YGX: 开始下载安装包
+2019-04-28 18:07:57,894 [INFO] YGX: 下载完成，开始解压安装包
+2019-04-28 18:08:49,210 [INFO] YGX: 解压完成，开始下载要对比的安装包
+2019-04-28 18:08:50,644 [INFO] YGX: 下载完成，开始解压要对比的安装包
+2019-04-28 18:10:01,342 [INFO] YGX: 解压完成
+2019-04-28 18:10:01,344 [INFO] YGX: 开始对比两个版本的文件签名信息
+2019-04-28 18:10:16,750 [ERROR] YGX: Write excel failed:No found col:Issued when write excel
+2019-04-28 18:12:31,424 [INFO] YGX: ========================END============================
+2019-04-28 18:12:34,644 [INFO] YGX: Read config.ini
+2019-04-28 18:12:36,263 [INFO] YGX: 初始化中...
+2019-04-28 18:12:36,276 [INFO] YGX: 开始下载安装包
+2019-04-28 18:12:37,019 [INFO] YGX: 下载完成，开始解压安装包
+2019-04-28 18:13:23,865 [INFO] YGX: 解压完成，开始下载要对比的安装包
+2019-04-28 18:13:24,621 [INFO] YGX: 下载完成，开始解压要对比的安装包
+2019-04-28 18:14:26,747 [INFO] YGX: 解压完成
+2019-04-28 18:14:26,750 [INFO] YGX: 开始对比两个版本的文件签名信息
+2019-04-28 18:26:27,312 [INFO] YGX: Read config.ini
+2019-04-28 18:27:13,405 [INFO] YGX: 初始化中...
+2019-04-28 18:27:13,437 [INFO] YGX: 开始下载安装包
+2019-04-28 18:27:14,048 [INFO] YGX: 下载完成，开始解压安装包
+2019-04-28 18:27:14,052 [ERROR] YGX: No found uncompress tool:C:\Users\Administrator\Documents\github\DigitalSignature\tools\innounp.exe
+2019-04-28 18:27:35,522 [INFO] YGX: 初始化中...
+2019-04-28 18:27:35,538 [INFO] YGX: 开始下载安装包
+2019-04-28 18:27:35,770 [INFO] YGX: 下载完成，开始解压安装包

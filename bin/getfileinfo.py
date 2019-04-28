@@ -2,7 +2,6 @@
 
 import os
 import sys
-import win32api
 
 # ********************************Get executing path******************************
 if getattr(sys, 'frozen', False):
@@ -17,21 +16,6 @@ class FileOperation:
 
         self.tool_path = os.path.join(BASE_PATH[:-3], 'tools', 'signtool.exe')
         self.info = {}
-
-    def get_file_info(self, file_path, contribution_list):
-        if not isinstance(contribution_list, list):
-            raise ValueError('"get_file_info" function need a list, not %s' % type(contribution_list))
-        try:
-            lang, code_page = win32api.GetFileVersionInfo(file_path, '\\VarFileInfo\\Translation')[0]
-            for contribution_name in contribution_list:
-                str_info_path = u'\\StringFileInfo\\%04X%04X\\%s' % (lang, code_page, contribution_name)
-                if contribution_name == 'signature':
-                    self.get_digital_signature_info(file_path)
-                else:
-                    self.info[contribution_name] = win32api.GetFileVersionInfo(file_path, str_info_path)
-        except:
-            pass
-        return self.info
 
     def get_digital_signature_info(self, file_path):
         # 判断文件是否存在
